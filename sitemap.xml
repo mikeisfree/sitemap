@@ -1,158 +1,508 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="https://gsap.com/docs/v3/GSAP/Timeline/sitemap.xml">
+
+    <!-- Fundamentals -->
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/</loc>
+    </url>
+
+    <!-- GSAP Properties -->
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/gsap.effects()</loc>
+    </url>
+
+    <!-- Tween -->
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/Overview</loc>
+    </url>
+
+    <!-- Tween Properties -->
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/data</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/ratio</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/scrollTrigger</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/vars</loc>
+    </url>
+
+    <!-- Tween Methods -->
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/delay()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/duration()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/endTime()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/eventCallback()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/globalTime()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/invalidate()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/isActive()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/iteration()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/kill()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/pause()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/paused()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/play()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/progress()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/repeat()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/repeatDelay()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/restart()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/resume()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/reverse()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/reversed()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/revert()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/seek()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/startTime()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/targets()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/then()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/time()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/timeScale()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/totalDuration()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/totalProgress()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/totalTime()</loc>
+    </url>
+    <url>
+        <loc>https://gsap.com/docs/v3/GSAP/Tween/yoyo()</loc>
+    </url>
+	
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/add()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/</loc>
+  </url>
+  
+  <!-- Properties -->
+  <url>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/autoRemoveChildren/</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/addLabel()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/data/</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/addPause()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/labels/</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/call()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/parent/</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/clear()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/scrollTrigger/</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/currentLabel()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/smoothChildTiming/</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/delay()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/vars/</loc>
+  </url>
+  
+  <!-- Methods -->
+ <url>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/add()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/duration()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/addLabel()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/endTime()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/addPause()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/eventCallback()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/call()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/from()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/clear()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/fromTo()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/currentLabel()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/getById()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/delay()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/getChildren()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/duration()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/getTweensOf()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/endTime()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/globalTime()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/eventCallback()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/invalidate()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/from()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/isActive()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/fromTo()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/iteration()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/getById()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/kill()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/getChildren()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/killTweensOf()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/getTweensOf()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/nextLabel()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/globalTime()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/pause()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/invalidate()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/paused()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/isActive()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/play()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/iteration()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/previousLabel()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/kill()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/progress()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/killTweensOf()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/recent()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/nextLabel()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/remove()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/pause()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/removeLabel()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/paused()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/removePause()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/play()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/repeat()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/previousLabel()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/repeatDelay()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/progress()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/restart()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/recent()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/resume()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/remove()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/reverse()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/removeLabel()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/reversed()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/removePause()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/revert()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/repeat()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/seek()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/repeatDelay()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/set()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/restart()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/shiftChildren()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/resume()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/startTime()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/reverse()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/then()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/reversed()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/time()/</loc>
+    <loc>https://gsap.com/docs/v3/GSAP/Timeline/revert()</loc>
+  </url>
+
+<url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/timeScale()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/animation</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/to()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.batch()</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/totalDuration()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/direction</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/totalProgress()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/end</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/totalTime()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/isActive</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/tweenFromTo()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/isTouch</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/tweenTo()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/pin</loc>
   </url>
   <url>
-    <loc>https://gsap.com/docs/v3/GSAP/Timeline/yoyo()/</loc>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/progress</loc>
   </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/scroller</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/start</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/trigger</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/vars</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.clearMatchMedia()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.clearScrollMemory()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.config()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.create()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.defaults()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/disable()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/enable()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.getAll()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.getById()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/getTween()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/getVelocity()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.isInViewport()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.isScrolling()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/kill()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.killAll()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/labelToScroll()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.matchMedia()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.maxScroll()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/next()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.normalizeScroll()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.observe()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.positionInViewport()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/previous()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/refresh()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.removeEventListener()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.saveStyles()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/scroll()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.scrollerProxy()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.snapDirectional()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.sort()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.addEventListener()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.refresh()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.update()</loc>
+  </url>
+    <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/progress</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/scrollTrigger</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/vars</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/content()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/effects()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/getVelocity()</loc>
+  </url>
+<url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/kill()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/offset()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/paused()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/scrollTo()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/scrollTop()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/smooth()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/static.create()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/static.get()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/ScrollSmoother/wrapper()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/static.batch()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/static.fit()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/static.from()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/static.getState()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/isFlipping()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/static.killFlipsOf()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/makeAbsolute()</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/docs/v3/Plugins/Flip/static.to()</loc>
+  </url>
+<url>
+    <loc>https://gsap.com/resources/frameworks</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/resources/React</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/resources/react-basics</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/resources/react-advanced</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/resources/svg</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/resources/Webflow</loc>
+  </url>
+  <url>
+    <loc>https://gsap.com/resources/Wordpress</loc>
+  </url>
+
 </urlset>
+
